@@ -1,3 +1,4 @@
+/*
 package com.sujun.demo.dubbo.controller;
 
 import com.sujun.demo.dubbo.service.IDemoService;
@@ -21,4 +22,4 @@ public class MainController {
     }
 
 
-}
+}*/
